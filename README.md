@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Siyama 👋
 
-<!--
-**misn7788-sudo/misn7788-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product & Data/Business Analyst | MSc Financial Technology
 
-Here are some ideas to get you started:
+📍 Riyadh, Saudi Arabia | Open to Riyadh-based and international remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at the intersection of FinTech, Artificial Intelligence, Business Analytics, and Decision Intelligence, developing practical solutions that turn complex financial and operational challenges into actionable insights.
+
+🚀 Featured Projects
+
+- INFINITY SUSTAIN — AI-powered sustainable investment intelligence and explainable machine learning.
+- INFINITY TRUSTGATE — Responsible AI, agent assurance, risk management and human oversight.
+- INFINITY BIZFLOWQ (in development) — AI-powered profitability, cash-flow and working-capital decision intelligence for SMEs.
+- GovEase — Agentic AI hackathon team project; third-place achievement.
+
+🎯 Career Interests
+
+AI Product Analysis | Business Analysis | Data & BI Analytics | FinTech | AI Transformation
+
+🔗 Connect
+
+"LinkedIn" (https://www.linkedin.com/in/siyama-irshad-0009a1259/)
